@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @AmirrezaRahman
-- farshid
-- 
+- data scientist
+-Python Programmer
+  
